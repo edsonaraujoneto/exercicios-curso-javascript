@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(45, 144, 230);
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+section {
+    background-color: white;
+    color: black;
+    width: 440px;
+    padding: 10px;
+    border-radius: 4px;
+    margin-left: 450px;
+    /*text-align: left;*/
+}
+
+select#numbers {
+    width: 200px;
+}
+
+input#but {
+    margin-top: 15px;
+}
+
+input#add {
+    margin-left: 15px;
+}
