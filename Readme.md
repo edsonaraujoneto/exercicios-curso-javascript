@@ -1,5 +1,5 @@
-<h1>Exercícios do Curso de JavaScript </h1>
+# Sobre
 
-Aqui estão alguns dos exercícios realizados por mim no curso básico de JavaScript do professor <strong>Gustavo Guanabara </strong>do Curso em Vídeo. <br>
+Aqui estão alguns dos exercícios realizados no curso básico de **JavaScrip**t do professor **Gustavo Guanabara** do Curso em Vídeo. 
 
-Todos os códigos aqui postados são de autoria de <strong>Edson Araujo de Souza Neto</strong>.
+Todos os códigos aqui postados são de autoria de @edsonaraujoneto
